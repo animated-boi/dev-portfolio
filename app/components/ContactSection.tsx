@@ -3,7 +3,7 @@ import React from 'react';
 
 export const ContactSection = () => {
   return (
-    <section id="contact" className="py-20 px-4 scroll-mt-20 bg-white relative">
+    <section className="py-20 px-4 bg-gradient-to-b from-gray-900 to-black">
       <div className="max-w-4xl mx-auto text-center px-4 sm:px-6">
 
         {/* Title */}

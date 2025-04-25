@@ -48,9 +48,9 @@ export const HeroSection = () => {
 					<div className="space-y-4 sm:space-y-6 mt-6 sm:mt-8">
 						<div className="flex flex-col items-center gap-4">
 							<div className="flex items-center gap-3">
-								<span className="h-[1px] w-8 sm:w-40 bg-blue-500"></span>
+								<span className="h-[1px] w-8 sm:w-40 bg-red-500"></span>
 								<h2 className="text-xl sm:text-2xl font-light tracking-wide text-blue-600">Full-Stack Developer | Cloud & AI Engineer</h2>
-								<span className="h-[1px] w-8 sm:w-40 bg-blue-500"></span>
+								<span className="h-[1px] w-8 sm:w-40 bg-red-500"></span>
 							</div>
 							<p className="text-base sm:text-lg text-gray-900 dark:text-gray-500 max-w-4xl sm:max-w-6xl px-6 sm:px-12 leading-relaxed">
 							I architect clean code, scalable systems, and clever algorithms — and sometimes even pretty pixels. With a Master’s in Computer Science from ASU and industry stints at PwC and Infosys, I merge front-end finesse, backend logic, cloud resilience, and ML intelligence to craft systems that don’t just work — they adapt, learn, and scale.
